@@ -1,2 +1,3 @@
 # teste123
-trabalho de projeto integrador da faculdade senac pernambuco (projeto ainda sem o back-end pôs ainda está em desenvolvimento)
+
+trabalho do PI que exigira a instalação do bootstrap através do npm no terminal 
